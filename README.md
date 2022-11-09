@@ -14,4 +14,6 @@ Epipolar geometry is the geometry of stereo vision. When two cameras view a 3D s
 
 In geometric optics, distortion is a deviation from rectilinear projection; a projection in which straight lines in a scene remain straight in an image. It is a form of optical aberration. Distortion Correction is an adjustment that alters the pixels of the image to straighten out lines and reduce the "fish-eye" or "barrel" effect in the image.
 
-* Bundle Adjustment
+* Bundle Adjustment:
+
+Bundle adjustment boils down to minimizing the reprojection error between the image locations of observed and predicted image points, and one of the most known algorithm to minimize this error of reprojection is the Levenberg-Marquardt Algorithm.
