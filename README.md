@@ -1,6 +1,6 @@
-# Computer_Vision
+# Computer Vision:
 
-Computer Vision Algorithms:
+## Computer Vision Algorithms:
 
 * Camera Calibration: 
 
